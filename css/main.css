@@ -5,7 +5,7 @@
 }.circle {
     padding: 16px 20px;
     border-radius: 30%;
-    background-color: green;
+    background-color: #fcba03;
     color: #fff;
     max-height: 50px;
     z-index: 2;
@@ -16,7 +16,7 @@ html {
 }
 
 .bg-infinity-primary {
-  background-color: #00b8a5;
+  background-color: #fcba03;
 }
 
 @-webkit-keyframes slightSlideInFromBottom {
@@ -96,24 +96,24 @@ html {
 }
 
 .navbar .navbar-nav .nav-item .nav-link:hover {
-  color: #00b8a5;
-  border-bottom: 2px solid #00b8a5;
+  color: #fcba03;
+  border-bottom: 2px solid #fcba03;
   padding-bottom: 5px;
   margin-bottom: 15px;
 }
 
 .navbar .navbar-nav .nav-item .dropdown-item:active {
-  background-color: #00b8a5;
+  background-color: #fcba03;
 }
 
 .navbar .navbar-nav .nav-item .dropdown-item:hover {
-  background-color: #00b8a5;
+  background-color: #fcba03;
   color: white;
 }
 
 .navbar .navbar-nav .active .nav-link {
-  color: #00b8a5;
-  border-bottom: 2px solid #00b8a5;
+  color: #fcba03;
+  border-bottom: 2px solid #fcba03;
   padding-bottom: 5px;
   margin-bottom: 15px;
 }
@@ -131,7 +131,7 @@ html {
 }
 
 .nav-bg-light .navbar-nav .active .nav-link {
-  color: #00b8a5;
+  color: #fcba03;
 }
 
 #home {
@@ -175,8 +175,8 @@ html {
 }
 
 #home .hero-cta .btn:hover {
-  background-color: #00b8a5;
-  border-color: #00b8a5;
+  background-color: #fcba03;
+  border-color: #fcba03;
   color: white;
 }
 
@@ -223,7 +223,7 @@ html {
 }
 
 a {
-  color: #00b8a5;
+  color: #fcba03;
 }
 
 .main-sections {
@@ -305,14 +305,14 @@ a {
 
 .section-headings {
   padding-top: 20px;
-  color: #00b8a5;
+  color: #fcba03;
   font-size: 16px;
   font-weight: normal;
 }
 
 .section-info-div {
   padding: 15px;
-  border: 2px solid #00b8a5;
+  border: 2px solid #fcba03;
   border-radius: 15px;
   width: 80%;
   margin-bottom: 70px;
@@ -389,7 +389,7 @@ a {
 }
 
 .research-gap .card:hover {
-  background-color: #00b8a5;
+  background-color: #fcba03;
   color: white;
 }
 
@@ -398,7 +398,7 @@ a {
 }
 
 .highlight {
-  color: #00b8a5;
+  color: #fcba03;
 }
 
 .research-objectives .card {
@@ -472,12 +472,12 @@ a {
 .timeline-event:hover .timeline-event-icon {
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  background-color: #00b8a5;
+  background-color: #fcba03;
 }
 
 .timeline-event:hover .timeline-event-thumbnail {
-  -webkit-box-shadow: inset 40em 0 0 0 #00b8a5;
-  box-shadow: inset 40em 0 0 0 #00b8a5;
+  -webkit-box-shadow: inset 40em 0 0 0 #fcba03;
+  box-shadow: inset 40em 0 0 0 #fcba03;
 }
 
 .timeline-event-copy {
@@ -595,13 +595,13 @@ a {
 }
 
 .contact-form button {
-  background-color: #00b8a5;
+  background-color: #fcba03;
   color: white;
   width: 100%;
 }
 
 .contact-form button:hover, .contact-form button :focus {
-  background-color: #00574e;
+  background-color: #fcba03;
   color: white;
 }
 
@@ -625,12 +625,12 @@ a {
 @media screen and (max-width: 992px) {
   .contact-details {
     margin-top: 30px;
-    background-image: linear-gradient(to left, #52BE80, #196F3D, #52BE80);
+    background-image: linear-gradient(to left, #fcba03, #fcba03, #fcba03);
     background-size:200%;
     color: white;
   }
   .contact-details a {
-    color: #00574e;
+    color: #fcba03;
   }
 }
 
@@ -643,7 +643,7 @@ a {
   .connecting-lines.row .col-2::after {
     content: "";
     position: absolute;
-    border-left: 3px solid #00b8a5;
+    border-left: 3px solid #fcba03;
     z-index: 1;
   }
   .connecting-lines.row .col-2.bottom::after {
@@ -667,7 +667,7 @@ a {
     height: 40px;
   }
   .timeline_s hr {
-    border-top: 3px solid #00b8a5;
+    border-top: 3px solid #fcba03;
     margin: 0;
     top: 17px;
     position: relative;
@@ -677,7 +677,7 @@ a {
     overflow: hidden;
   }
   .timeline_s .corner {
-    border: 3px solid #00b8a5;
+    border: 3px solid #fcba03;
     width: 100%;
     position: relative;
     border-radius: 15px;
@@ -746,5 +746,5 @@ a {
 
 .btncolorgradient{
 	background-size:200%;
-	background-image: linear-gradient(to left, #52BE80, #196F3D, #52BE80)
+	background-image: linear-gradient(to left, #fcba03, #fcba03, #fcba03)
 }
